@@ -1,6 +1,4 @@
 //= require jquery
-//= require jquery-ui
-//= require lib/jquery.ui.templates
 //= require jquery_ujs
 
 //= require forms/remote-radios
